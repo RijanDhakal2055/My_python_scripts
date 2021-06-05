@@ -1,0 +1,20 @@
+Amborella trichopoda
+AagrBONN_evm.model
+Araport
+Azfi_s
+Cericv
+kfl
+Mapoly
+ME
+LOC_Os
+Pp
+.t1
+TnS
+Potri
+Sacu_v1
+.v1.91
+SEGI_41631
+SM
+Vitvi
+Vocar
+Zm
