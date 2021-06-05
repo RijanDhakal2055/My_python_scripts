@@ -9,9 +9,5 @@ def main():
     with open('Species_identifier_list.txt','rt') as Species_list:
         Species_list_lines = Species_list.readlines()
 
-    for i in Filtered_list_lines:
-        X ="AT3G48750"
-        if X in i:
-            print(i)
-
+    
 main()
