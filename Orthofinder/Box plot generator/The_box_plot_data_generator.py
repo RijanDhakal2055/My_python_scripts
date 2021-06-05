@@ -9,5 +9,6 @@ def main():
     with open('Species_identifier_list.txt','rt') as Species_list:
         Species_list_lines = Species_list.readlines()
 
-    
+    for ortho_line in Filtered_list_lines:
+        
 main()
