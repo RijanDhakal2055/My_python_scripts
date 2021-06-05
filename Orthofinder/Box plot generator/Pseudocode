@@ -1,2 +1,17 @@
 1.Open all three files
 
+Need consultation here:- Which one do I want to open first? Does it matter which one I open first?
+
+2. Test with two filter
+
+a. First filter :- Is the cell cycling gene there
+
+b. Second filter:- Is the species identifier there
+
+3. From step two filter b, if the species identifier is there count the number of times it is there with .count()
+
+4. Then print the counted value to a table
+
+
+
+
