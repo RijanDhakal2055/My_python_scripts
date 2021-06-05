@@ -7,7 +7,7 @@ def main():
         parser(i)
 
 def parser(current):
-    print(current)
+    
     with open('Orthogroups.tsv','rt') as big_list:
         big_list_lines = big_list.readlines()
     
