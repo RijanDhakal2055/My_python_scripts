@@ -11,6 +11,7 @@ def main():
 
     for ortho_line in Filtered_list_lines:
         #print(ortho_line[:20])
+        ortho_line = ortho_line.rstrip('\n')
         for gene_name in Gene_list_lines:
             gene_name = gene_name.rstrip('\n')
             #print(gene_name)
