@@ -1,6 +1,5 @@
-Zm
-Amborella trichopoda
-AagrBONN_evm.model
+AT
+AagrBONN
 Araport
 Azfi_s
 Cericv
@@ -18,4 +17,5 @@ SEGI_41631
 SM
 Vitvi
 Vocar
+Zm
 

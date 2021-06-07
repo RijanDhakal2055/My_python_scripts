@@ -10,6 +10,7 @@ def main():
         Species_list_lines = Species_list.readlines()
 
     for ortho_line in Filtered_list_lines:
+        ortho_line = ortho_line.rstrip('\n')
         #print(ortho_line[:20])
         for gene_name in Gene_list_lines:
             gene_name = gene_name.rstrip('\n')
