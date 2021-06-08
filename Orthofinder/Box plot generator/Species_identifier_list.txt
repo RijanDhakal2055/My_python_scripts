@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 AagrBONN
 AmTr
 AT
-=======
-AT
-AagrBONN
-Araport
-Azfi_s
->>>>>>> 1fe82633a88088cf715e8d435310bbd61f8efd90
 Cericv
 Azfi
 ME
@@ -25,10 +18,4 @@ Sacu
 EFJ
 SEGI
 SM
-<<<<<<< HEAD
 Klenit
-=======
-Vitvi
-Vocar
-Zm
->>>>>>> 1fe82633a88088cf715e8d435310bbd61f8efd90
