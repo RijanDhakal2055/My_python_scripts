@@ -1,3 +1,5 @@
+import pickle
+
 def main():
 
 	species_identifiers = {}
@@ -13,6 +15,10 @@ def main():
 			b = current_line[1]
 			species_identifiers[a] = b
 
-	print(species_identifiers)
+	#the print statement is just me trying to make sure that the cose is working properly
+
+	dict_file = open("species_dict.pkl","wb")
+	pickle.dump(dict,dict_file)
+	dict_file.close()
 
 main()
