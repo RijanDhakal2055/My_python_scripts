@@ -1,6 +1,10 @@
+from os import replace
 import pickle
+import re
 
 def main():
+
+	real_lines = []
 	with open('species_dict.pkl','rb') as handle:
 		the_dict = pickle.load(handle)
 
@@ -11,8 +15,5 @@ def main():
 		for the_key in the_dict:
 			the_line = the_line.replace(the_key,the_dict[the_key])
 		print(the_line)
-	
-		
-
 
 main()
