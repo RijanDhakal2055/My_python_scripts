@@ -1,0 +1,208 @@
+AT1G02740  	
+Other names: MORF RELATED GENE 2, MRG2
+AT1G03750  	
+Other names: CHR9, CHROMATIN REMODELING 9
+AT1G04050  	
+AT1G04400  	
+Other names: AT-PHH1, ATCRY2, CRY2, CRYPTOCHROME 2, FHA, PHH1
+AT1G05490  	
+Other names: CHR31, CHROMATIN REMODELING 31, CLASSY3, CLSY3
+AT1G08880  	
+AT1G09320  	
+AT1G09470  	
+AT1G17730  	
+Other names: CHARGED MULTIVESICULAR BODY PROTEIN/CHROMATIN MODIFYING PROTEIN1B, CHMP1B, VACUOLAR PROTEIN SORTING 46.1, VPS46.1
+Encodes an ESCRT-related protein: CHMP1A/AT1G73030; CHMP1B/AT1G17730. CHMP1A and B mediate multivesicular body sorting of auxin carriers and are required for plant development. ESCRT: Endosomal Sorting Complexes Required For Transport machinery; CHMP: Charged Multivesicular Body Protein/Chromatin Modifying Protein.
+AT1G18450  	
+Other names: ACTIN-RELATED PROTEIN 4, ARP4, ATARP4
+AT1G18800  	
+Other names: NAP1-RELATED PROTEIN 2, NRP2
+AT1G19100  	
+Other names: ATMORC6, DEFECTIVE IN MERISTEM SILENCING 11, DMS11, MICRORCHIDIA 6, MORC6
+Encodes a member of the conserved Microrchidia (MORC) adenosine triphosphatase (ATPase) family, predicted to catalyze alterations in chromosome superstructure. Required for heterochromatin condensation and gene silencing.
+AT1G20240  	
+AT1G20290  	
+AT1G20690  	
+AT1G20693  	
+Other names: HIGH MOBILITY GROUP B2, HIGH MOBILITY GROUP BETA 1, HMG BETA 1, HMGB2, NFD02, NFD2, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR GROUP D 02, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR GROUP D 2
+AT1G20696  	
+AT1G21700  	
+Other names: ATSWI3C, CHB4, SWI3C, SWITCH/SUCROSE NONFERMENTING 3C
+a member of the Arabidopsis SWI3 gene family. Protein physically interacts with ATSWI3B and ATSWI3A, the other two members of the SWI3 family. Homologous to yeast SWI3 & RSC8, components of the SWI/SNF and RSC chromatin remodeling complexes. Referred to as CHB3 in Zhou et al (2003).
+AT1G26470  	
+Other names: SNRK2-SUBSTRATE 1, SNS1
+AT1G48310  	
+AT1G50410  	
+AT1G54690  	
+AT1G57565  	
+AT1G57820  	
+AT1G63490  	
+Histone demethylase belonging to the KDM5/JARID1 family which plays crucial roles in response to dehydration stress and abscisic acid (ABA). Directly binds the chromatin of OPEN STOMATA 1 (OST1) and demethylated H3K4me3 for the regulation of OST1 mRNA abundance, thereby modulating the dehydration stress response.
+AT1G64490  	
+AT1G65440  	
+AT1G65470  	
+Other names: FAS1, FASCIATA 1, FUGU 2, FUGU2
+AT1G66080  	
+AT1G66170  	
+Other names: DUET, MALE MEIOCYTE DEATH 1, MMD1
+AT1G67370  	
+Other names: ASY1, ASYNAPTIC 1, ATASY1
+AT1G69770  	
+AT1G73030  	
+Other names: CHARGED MULTIVESICULAR BODY PROTEIN/CHROMATIN MODIFYING PROTEIN1A, CHMP1A, VPS46.2
+Encodes an ESCRT-related protein: CHMP1A/AT1G73030; CHMP1B/AT1G17730. CHMP1A and B mediate multivesicular body sorting of auxin carriers and are required for plant development. ESCRT: Endosomal Sorting Complexes Required For Transport machinery; CHMP: Charged Multivesicular Body Protein/Chromatin Modifying Protein.
+AT1G73910  	
+AT1G74560  	
+Other names: NAP1-RELATED PROTEIN 1, NRP1
+AT1G77300  	
+AT1G77540  	
+Encodes a H3/H4 histone acetyltransferase. Belongs to the GNAT family, whose many members are involved in histone acetylation and chromatin remodeling, and are important for the regulation of cell growth and development.
+AT1G79350  	
+AT1G79730  	
+AT2G02090  	
+Other names: CHA19, CHR19, CHROMATIN REMODELING 19, ETL1
+AT2G06210  	
+Other names: EARLY FLOWERING 8, ELF8, NON-RESPONSE TO FE-DEFICIENCY2, NRF2, VERNALIZATION INDEPENDENCE 6, VIP6
+AT2G06510  	
+Other names: ARABIDOPSIS THALIANA REPLICATION PROTEIN A 1A, ARABIDOPSIS THALIANA RPA70-KDA SUBUNIT A, ATRPA1A, ATRPA70A, REPLICATION PROTEIN A 1A, RPA1A, RPA70-KDA SUBUNIT A, RPA70A
+AT2G07690  	
+AT2G13370  	
+AT2G16390  	
+AT2G16780  	
+Other names: MSI02, NFC02, NFC2, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR GROUP C 2
+AT2G17560  	
+Other names: HIGH MOBILITY GROUP B4, HMGB4, NFD04, NFD4, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR D4
+AT2G18760  	
+AT2G19480  	
+AT2G19520  	
+Other names: ACG1, ATMSI4, FVE, MSI4, MULTICOPY SUPPRESSOR OF IRA1 4, NFC04, NFC4
+AT2G21450  	
+AT2G22720  	
+AT2G25170  	
+AT2G27350  	
+Derives_from AT2G27350;(source:Araport11)
+AT2G28290  	
+AT2G32940  	
+AT2G33610  	
+Other names: ATSWI3B, CHB2, CHROMATIN REMODELING COMPLEX SUBUNIT B, SWI3B, SWITCH SUBUNIT 3
+AT2G43410  	
+AT2G44980  	
+AT2G46020  	
+Encodes a SWI/SNF chromatin remodeling ATPase that upregulates transcription of all three CUC genes and is involved in the formation and/or maintenance of boundary cells during embryogenesis. Also mediates repression of expression of seed storage proteins in vegetative tissues. Interacts strongly with AtSWI3C, also with AtSWI3B, but not with AtSWI3A or AtSWI3D.
+AT3G01460  	
+Other names: ATMBD9, MBD9, METHYL-CPG-BINDING DOMAIN 9
+AT3G01890  	
+AT3G03140  	
+AT3G03460  	
+AT3G04380  	
+AT3G05830  	
+AT3G06010  	
+Other names: ATCHR12, CHR12, CHROMATIN REMODELING 12
+AT3G06400  	
+Other names: CHR11, CHROMATIN-REMODELING PROTEIN 11
+AT3G07220  	
+Other names: ATFHA2, FHA2, FORKHEAD-ASSOCIATED 2
+AT3G07610  	
+Other names: IBM1, INCREASE IN BONSAI METHYLATION 1
+AT3G10390  	
+AT3G11450  	
+Other names: ATGLSA1, GONIDIALESS A/ZUOTIN RELATED FACTOR A1, ZRF1A, ZUOTIN-RELATED FACTOR 1A
+AT3G12810  	
+Encodes a protein similar to ATP-dependent, chromatin-remodeling proteins of the ISWI and SWI2/SNF2 family. Genetic analyses suggest that this gene is involved in multiple flowering pathways. Mutations in PIE1 results in suppression of FLC-mediated delay of flowering and causes early flowering in noninductive photoperiods independently of FLC. PIE1 is required for expression of FLC in the shoot apex but not in the root.Along with ARP6 forms a complex to deposit modified histone H2A.Z at several loci within the genome. This modification alters the expression of the target genes (i.e. FLC, MAF4, MAF6).The mRNA is cell-to-cell mobile.
+AT3G13782  	
+AT3G20010  	
+AT3G23780  	
+Other names: NRPD2A, NUCLEAR RNA POLYMERASE D2A, OCP1, OVEREXPRESSOR OF CATIONIC PEROXIDASE 1
+AT3G24340  	
+Other names: CHR40, CHROMATIN REMODELING 40, CLASSY4, CLSY4
+AT3G24440  	
+AT3G28730  	
+Other names: ATHMG, HIGH MOBILITY GROUP, HMG, NFD, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR D, SSRP1
+AT3G32310  	
+AT3G32370  	
+AT3G33520  	
+Other names: ACTIN-RELATED PROTEIN 6, ARP6, ATARP6, EARLY IN SHORT DAYS 1, ESD1, SUF3, SUPPRESSOR OF FRI 3
+Encodes ACTIN-RELATED PROTEIN6 (ARP6), a putative component of a chromatin-remodeling complex. Required for both histone acetylation and methylation of the FLC chromatin in Arabidopsis. Along with PIE1 forms a complex to deposit modified histone H2A.Z at several loci within the genome. This modification alters the expression of the target genes (i.e. FLC, MAF4, MAF6). Incorporation of this variant histone into chromatin mediates the ambient temperature response. Located at specific regions of the nuclear periphery. Expression throughout plants shown by in-situ and immunolocalization methods. Mutants show defects in fertility, leaf, flower and inflorescence development and shorter flowering times. ARP6 also is involved in globally controlling developmental responses to ambient temperature through incorporation of variant histone H2A.Z into chromatin.
+AT3G42670  	
+AT3G43240  	
+Other names: ARID5, AT-RICH INTERACTING DOMAIN5
+AT3G44530  	
+Encodes a nuclear localized WD-repeat containing protein involved in negative regulation of knox gene expression via epigenetic mechanism of chromatin re-organization. It is a part of the HISTONE REGULATOR complex that deposits histones in a DNA synthesis-independent manner and affects both nucleosome occupancy and the maintenance of transcriptional silencing. Interacts physically and genetically with AS1. Expressed in meristem and leaf primordia. Homozygous mutants are embryo lethal. Phenotype of cosuppressed lines is variable but show effects on leaf development similar to as1/as2.
+AT3G48710  	
+AT3G49600  	
+AT3G51880  	
+AT3G55580  	
+AT3G62300  	
+AT4G02060  	
+AT4G05420  	
+AT4G10180  	
+Other names: ATDET1, DE-ETIOLATED 1, DET1, FUS2, FUSCA 2
+AT4G10670  	
+AT4G10710  	
+AT4G16280  	
+AT4G22140  	
+AT4G26630  	
+AT4G29730  	
+AT4G29830  	
+Other names: A. THALIANA HOMOLOG OF YEAST SKI8, SKI8, VERNALIZATION INDEPENDENCE 3, VIP3
+AT4G31900  	
+AT4G32620  	
+AT4G35050  	
+Other names: NFC3, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR GROUP C 3
+AT4G35570  	
+AT4G36290  	
+Other names: ATMORC1, COMPROMISED RECOGNITION OF TCV 1, CRT1, MICROCHIDIA 1, MORC1
+R-protein-interacting protein that localizes to endosomes and functions in resistance gene–mediated immunity. Belongs to the conserved Microrchidia (MORC) adenosine triphosphatase (ATPase) family, predicted to catalyze alterations in chromosome superstructure. Required for heterochromatin condensation and gene silencing.
+AT4G37280  	
+Other names: MORF RELATED GENE 1, MRG1
+AT4G37860  	
+AT4G38495  	
+AT5G04670  	
+AT5G05330  	
+AT5G06110  	
+Other names: ATGLSA1, GONIDIALESS A/ZUOTIN RELATED FACTOR A1, ZRF1B, ZUOTIN-RELATED FACTOR 1B
+AT5G09790  	
+Other names: ARABIDOPSIS TRITHORAX-RELATED PROTEIN 5, ATXR5, PDE336, PIGMENT DEFECTIVE 336, SDG15, SETDOMAIN GROUP 15
+Encodes a SET-domain protein, a H3K27 monomethyltransferases required for chromatin structure and gene silencing. Regulates heterochromatic DNA replication. Contains a PCNA-binding domain. ATXR5 accumulates preferentially during the late G1 or S phase, suggesting that it plays a role in cell-cycle regulation or progression. A plant line expressing an RNAi construct directed against this gene has reduced agrobacterium-mediated tumor formation.
+AT5G10140  	
+AT5G12910  	
+Other names: H3.15, HISTONE THREE RELATED 15
+AT5G14170  	
+AT5G17690  	
+AT5G18620  	
+Other names: CHR17, CHROMATIN REMODELING FACTOR17
+AT5G19310  	
+AT5G20420  	
+Other names: CHR42, CHROMATIN REMODELING 42, CLASSY2, CLSY2
+AT5G24330  	
+Other names: ARABIDOPSIS TRITHORAX-RELATED PROTEIN 6, ATXR6, SDG34, SET DOMAIN PROTEIN 34
+Encodes a SET-domain protein, a H3K27 monomethyltransferases required for chromatin structure and gene silencing. Regulates heterochromatic DNA replication. Contains a PCNA-binding domain. ATXR6 accumulates preferentially during the late G1 or S phase, suggesting that it plays a role in cell-cycle regulation or progression.
+AT5G24500  	
+Other names: ALP2, ANTAGONIST OF LIKE HETEROCHROMATIN PROTEIN 2
+AT5G26770  	
+AT5G42060  	
+AT5G43990  	
+AT5G44180  	
+AT5G44800  	
+Other names: CHR4, CHROMATIN REMODELING 4, PICKLE RELATED 1, PKR1
+AT5G45600  	
+AT5G55660  	
+AT5G56950  	
+Other names: NAP1;3, NFA03, NFA3, NUCLEOSOME ASSEMBLY PROTEIN 1;3, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR GROUP A 03, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR GROUP A3
+AT5G58230  	
+Other names: ARABIDOPSIS MULTICOPY SUPRESSOR OF IRA1, ATMSI1, MATERNAL EFFECT EMBRYO ARREST 70, MEE70, MSI1, MULTICOPY SUPRESSOR OF IRA1
+AT5G61070  	
+Other names: A. THALIANA HISTONE DEACETYLASE OF THE RPD3/HDA1 SUPERFAMILY 18, ATHDA18, HDA18, HISTONE DEACETYLASE OF THE RPD3/HDA1 SUPERFAMILY 18
+AT5G61380  	
+Other names: APRR1, ATTOC1, PRR1, PSEUDO-RESPONSE REGULATOR 1, TIMING OF CAB EXPRESSION 1, TOC1
+AT5G63550  	
+AT5G63860  	
+Other names: ATUVR8, UVB-RESISTANCE 8, UVR8
+AT5G63950  	
+AT5G64630  	
+Other names: FAS2, FASCIATA 2, MUB3.9, NFB01, NFB1
+AT5G66750  	
+Other names: ATDDM1, CHA1, CHR01, CHR1, CHROMATIN REMODELING 1, DDM1, DECREASED DNA METHYLATION 1, SOM1, SOM4, SOMNIFEROUS 1
+Protein is similar to SWI2/SNF2 chromatin remodeling proteins. DDM1 is appears to act as a chromatin-remodeling ATPase involved in cytosine methylation in CG and non-CG contexts. Involved in gene silencing and maintenance of DNA methylation and histone methylation. Hypomethylation of many genomic regions occurs in ddm1 mutants, and can cause several phenotypic abnormalities, but some loci, such as BONSAI (At1g73177) can be hypermethylated in ddm1 mutants after several generations, leading to different phenotypes. DDM1 might be involved in establishing a heterochromain boundary. A line expressing an RNAi targeted against DDM1 shows some resistance to agrobacterium-mediated root transformation.
+AT5G67100  	
+Encodes the putative catalytic subunit of the DNA polymerase alpha. Interacts with genes involved in chromatin-mediated cellular memory. ICU2 genetically interacts with TERMINAL FLOWER2, the ortholog of HETEROCHROMATIN PROTEIN1 of animals and yeasts, and with the Polycomb group (PcG) gene CURLY LEAF. A number of regulatory genes were derepressed in the icu2-1 mutant, including genes associated with flowering time, floral meristem, and floral organ identity. Mutant has curled, involute leaves and causes early flowering.
