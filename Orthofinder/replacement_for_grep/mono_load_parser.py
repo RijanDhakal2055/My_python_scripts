@@ -1,5 +1,5 @@
 def main():
-    with open('New_oglist.cellcycle.txt','rt') as small_list:
+    with open('spindle_fiber_list.txt','rt') as small_list:
         small_list_lines = small_list.readlines()
 
     for i in small_list_lines:
