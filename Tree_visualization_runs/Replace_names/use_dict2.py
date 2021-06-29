@@ -1,10 +1,10 @@
 import pickle
 
 def main():
-	with open('species_dict.pkl','rb') as handle:
+	with open('species_dict2.pkl','rb') as handle:
 		the_dict = pickle.load(handle)
 
-	with open('Base_asr.tre','rt') as the_base_file:
+	with open('chromatin.tsv','rt') as the_base_file:
 		the_base_file_line = the_base_file.readlines()
 
 	for the_line in the_base_file_line:
