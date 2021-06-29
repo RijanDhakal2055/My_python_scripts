@@ -1,6 +1,6 @@
 def main():
 
-    with open('Spindle_orthos.txt','rt') as Filtered_list:
+    with open('chromatin_orthos.txt','rt') as Filtered_list:
         Filtered_list_lines = Filtered_list.readlines()
 
     with open('species_id.txt','rt') as Species_list:
